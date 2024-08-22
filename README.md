@@ -1,4 +1,4 @@
-Crown Clothing E-commerce App
+Crown Clothing E-commerce App \n
 Crown Clothing is a fully responsive e-commerce web application built using React.js. The app allows users to browse and purchase various clothing items, manage their shopping cart, and securely process payments via Stripe. The application is styled using SCSS to provide a modern and clean user interface.
 
 Features
